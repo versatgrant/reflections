@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When a repository is initialized, it is given a .git file with the ability to create metadata. You would need to accurately track different versions of the same data. 
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a user selected group of files that are to be commited. This allows users to choose what file/files are commited/tracked at any one time.
