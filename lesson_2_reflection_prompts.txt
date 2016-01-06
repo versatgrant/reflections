@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches can be used when testing different experimental features of your code that isn't a direct update on the progress
 	or your code. For example, creating an easy-mode in a game.
+	
+How do the diagrams help you visualize the branch structure?
+
+	As the questions says, they help to give a visual representation of the branch structure.
